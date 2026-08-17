@@ -11,6 +11,36 @@
 //     
 // }
 
+void guessGame()
+{
+    int c = 0;
+
+    int randomInt = new Random().Next(1, 101);
+    string buf;
+
+    int ans = -1;
+    
+    Console.WriteLine("Guess a number between 1 and 100");
+    do
+    {
+        buf = Console.ReadLine();
+        ans = int.Parse(buf);
+
+        if (ans == randomInt)
+        {
+            Console.WriteLine("Guessed!");
+            return;
+        } else if (ans < randomInt)
+        {
+            Console.WriteLine("Too low!");
+        }
+        else
+        {
+            Console.WriteLine("Too high!");
+        }
+    } while (ans != randomInt);
+}
+
 int add(int a, int b)
 {
     return a + b;
@@ -23,6 +53,70 @@ int subtract(int a, int b)
 
 int multiply(int a, int b) {
     return a * b;
+}
+
+int divide(int a, int b)
+{
+    if (a == 0 | b == 0) return -1;
+    return a / b;
+}
+
+int calculate(int a, int b, char op)
+{
+    switch (op)
+    {
+        case '+':
+            return add(a, b);
+            break;
+        case '-' :
+            return subtract(a, b);
+            break;
+        case '/':
+            return divide(a, b);
+            break;
+        case '*':
+            return multiply(a, b);
+            break;
+        default:
+            Console.WriteLine("Invalid Operator...");
+            return 0;
+    }
+}
+
+void calculatorIO()
+{
+    char yn;
+    string buf;
+
+    do
+    {
+
+        Console.Write("First Number: ");
+        buf = Console.ReadLine();
+        int a = int.Parse(buf);
+
+
+        Console.Write("Operation (+, -, *, /): ");
+        buf = Console.ReadLine();
+        char op = char.Parse(buf);
+
+        Console.Write("Second Number: ");
+
+        buf = Console.ReadLine();
+        int b = int.Parse(buf);
+
+        Console.WriteLine(a + " " + op + " " + b + " = " +  calculate(a, b, op));
+
+        do
+        {
+            Console.Write("calculate again? (y/n): ");
+            buf = Console.ReadLine();
+            yn = char.Parse(buf);
+        } while (yn != 'y' && yn != 'n');
+    } while (yn != 'n');
+
+
+
 }
 
 void pyramid(int n)
@@ -126,6 +220,10 @@ int factorialItt()
 
 void Main()
 {
+    
+    guessGame();
+    
+    
     HelloCSharp();
     twoNumbersOperations();
 
@@ -144,6 +242,8 @@ void Main()
     Console.WriteLine(FindMax(firstExample) + " " + FindMax(secondExample) + " " + FindMin(firstExample) + " " + FindMin(secondExample));
 
     pyramid(5);
+    
+    calculatorIO();
 }
 
 

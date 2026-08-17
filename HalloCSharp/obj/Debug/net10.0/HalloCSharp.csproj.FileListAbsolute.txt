@@ -12,3 +12,4 @@
 /home/kondyan/projects/csharp/HalloCSharp/HalloCSharp/obj/Debug/net10.0/HalloCSharp.pdb
 /home/kondyan/projects/csharp/HalloCSharp/HalloCSharp/obj/Debug/net10.0/HalloCSharp.genruntimeconfig.cache
 /home/kondyan/projects/csharp/HalloCSharp/HalloCSharp/obj/Debug/net10.0/ref/HalloCSharp.dll
+/home/kondyan/projects/csharp/HalloCSharp/HalloCSharp/obj/Debug/net10.0/HalloCSharp.sourcelink.json
