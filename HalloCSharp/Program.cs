@@ -11,7 +11,7 @@
 //     
 // }
 
-void guessGame()
+void GuessGame()
 {
     int c = 0;
 
@@ -41,41 +41,41 @@ void guessGame()
     } while (ans != randomInt);
 }
 
-int add(int a, int b)
+int Add(int a, int b)
 {
     return a + b;
 }
 
-int subtract(int a, int b)
+int Subtract(int a, int b)
 {
     return a - b;
 }
 
-int multiply(int a, int b) {
+int Multiply(int a, int b) {
     return a * b;
 }
 
-int divide(int a, int b)
+int Divide(int a, int b)
 {
     if (a == 0 | b == 0) return -1;
     return a / b;
 }
 
-int calculate(int a, int b, char op)
+int Calculate(int a, int b, char op)
 {
     switch (op)
     {
         case '+':
-            return add(a, b);
+            return Add(a, b);
             break;
         case '-' :
-            return subtract(a, b);
+            return Subtract(a, b);
             break;
         case '/':
-            return divide(a, b);
+            return Divide(a, b);
             break;
         case '*':
-            return multiply(a, b);
+            return Multiply(a, b);
             break;
         default:
             Console.WriteLine("Invalid Operator...");
@@ -83,7 +83,7 @@ int calculate(int a, int b, char op)
     }
 }
 
-void calculatorIO()
+void CalculatorIO()
 {
     char yn;
     string buf;
@@ -105,7 +105,7 @@ void calculatorIO()
         buf = Console.ReadLine();
         int b = int.Parse(buf);
 
-        Console.WriteLine(a + " " + op + " " + b + " = " +  calculate(a, b, op));
+        Console.WriteLine(a + " " + op + " " + b + " = " +  Calculate(a, b, op));
 
         do
         {
@@ -119,7 +119,7 @@ void calculatorIO()
 
 }
 
-void pyramid(int n)
+void Pyramid(int n)
 {
     for (int i = 1; i <= n; i++)
     {
@@ -175,7 +175,7 @@ void HelloCSharp()
  
 }
 
-void twoNumbersOperations()
+void TwoNumbersOperations()
 {
 
     Console.Write("Erste Zahl: ");
@@ -193,19 +193,19 @@ void twoNumbersOperations()
 
 }
 
-int factorialRec(int n, ref int res)
+int FactorialRec(int n, ref int res)
 {
     if (n == 0) return res;
 
     res *= n;
     
     
-    return factorialRec(n - 1, ref res);
+    return FactorialRec(n - 1, ref res);
 }
 
 
 
-int factorialItt()
+int FactorialItt()
 {
     string buf = Console.ReadLine();
     int n = int.Parse(buf);
@@ -221,19 +221,19 @@ int factorialItt()
 void Main()
 {
     
-    guessGame();
+    GuessGame();
     
     
     HelloCSharp();
-    twoNumbersOperations();
+    TwoNumbersOperations();
 
     string buf = Console.ReadLine();
     int n = int.Parse(buf);
     int res = n;
-    factorialRec(n - 1, ref res);
+    FactorialRec(n - 1, ref res);
     Console.WriteLine(res);
 
-    int resItt = factorialItt();
+    int resItt = FactorialItt();
     Console.WriteLine(resItt);
 
     int[] firstExample = { 1, 2, 3, 4, 5, 234, 21235234, 6456 };
@@ -241,9 +241,9 @@ void Main()
     
     Console.WriteLine(FindMax(firstExample) + " " + FindMax(secondExample) + " " + FindMin(firstExample) + " " + FindMin(secondExample));
 
-    pyramid(5);
+    Pyramid(5);
     
-    calculatorIO();
+    CalculatorIO();
 }
 
 
