@@ -1,0 +1,14 @@
+/home/kondyan/projects/csharp/HalloCSharp/HalloCSharp/bin/Debug/net10.0/HalloCSharp
+/home/kondyan/projects/csharp/HalloCSharp/HalloCSharp/bin/Debug/net10.0/HalloCSharp.deps.json
+/home/kondyan/projects/csharp/HalloCSharp/HalloCSharp/bin/Debug/net10.0/HalloCSharp.runtimeconfig.json
+/home/kondyan/projects/csharp/HalloCSharp/HalloCSharp/bin/Debug/net10.0/HalloCSharp.dll
+/home/kondyan/projects/csharp/HalloCSharp/HalloCSharp/bin/Debug/net10.0/HalloCSharp.pdb
+/home/kondyan/projects/csharp/HalloCSharp/HalloCSharp/obj/Debug/net10.0/HalloCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/kondyan/projects/csharp/HalloCSharp/HalloCSharp/obj/Debug/net10.0/HalloCSharp.AssemblyInfoInputs.cache
+/home/kondyan/projects/csharp/HalloCSharp/HalloCSharp/obj/Debug/net10.0/HalloCSharp.AssemblyInfo.cs
+/home/kondyan/projects/csharp/HalloCSharp/HalloCSharp/obj/Debug/net10.0/HalloCSharp.csproj.CoreCompileInputs.cache
+/home/kondyan/projects/csharp/HalloCSharp/HalloCSharp/obj/Debug/net10.0/HalloCSharp.dll
+/home/kondyan/projects/csharp/HalloCSharp/HalloCSharp/obj/Debug/net10.0/refint/HalloCSharp.dll
+/home/kondyan/projects/csharp/HalloCSharp/HalloCSharp/obj/Debug/net10.0/HalloCSharp.pdb
+/home/kondyan/projects/csharp/HalloCSharp/HalloCSharp/obj/Debug/net10.0/HalloCSharp.genruntimeconfig.cache
+/home/kondyan/projects/csharp/HalloCSharp/HalloCSharp/obj/Debug/net10.0/ref/HalloCSharp.dll
