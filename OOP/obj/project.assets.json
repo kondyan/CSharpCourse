@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/kondyan/projects/csharp/HalloCSharp/HalloCSharp/HalloCSharp.csproj",
-      "projectName": "HalloCSharp",
-      "projectPath": "/home/kondyan/projects/csharp/HalloCSharp/HalloCSharp/HalloCSharp.csproj",
+      "projectUniqueName": "/home/kondyan/projects/csharp/HalloCSharp/OOP/OOP.csproj",
+      "projectName": "OOP",
+      "projectPath": "/home/kondyan/projects/csharp/HalloCSharp/OOP/OOP.csproj",
       "packagesPath": "/home/kondyan/.nuget/packages/",
-      "outputPath": "/home/kondyan/projects/csharp/HalloCSharp/HalloCSharp/obj/",
+      "outputPath": "/home/kondyan/projects/csharp/HalloCSharp/OOP/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/kondyan/.nuget/NuGet/NuGet.Config"
