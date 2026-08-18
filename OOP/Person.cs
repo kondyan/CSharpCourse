@@ -2,9 +2,9 @@ namespace OOP;
 
 public abstract class Person : IPerson
 {
-    private string _name;
-    private string _surname;
-    private DateTime _birthday;
+    protected string _name { get; set; }
+    private string _surname { get; set; }
+    private DateTime _birthday { get; set; }
 
     public Person()
     {

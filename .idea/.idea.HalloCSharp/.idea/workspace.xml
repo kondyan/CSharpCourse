@@ -9,50 +9,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="475597df-b3c6-42cf-8a7e-f98bf473e571" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.HalloCSharp/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HalloCSharp/obj/Debug/net10.0/HalloCSharp.sourcelink.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HalloCSharp/obj/rider.project.model.nuget.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Course.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/IPerson.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/OOP.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Person.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Student.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Teacher.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/bin/Debug/net10.0/OOP" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/bin/Debug/net10.0/OOP.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/bin/Debug/net10.0/OOP.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/bin/Debug/net10.0/OOP.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/bin/Debug/net10.0/OOP.runtimeconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/obj/Debug/net10.0/.NETCoreApp,Version=v10.0.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/obj/Debug/net10.0/OOP.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/obj/Debug/net10.0/OOP.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/obj/Debug/net10.0/OOP.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/obj/Debug/net10.0/OOP.GlobalUsings.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/obj/Debug/net10.0/OOP.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/obj/Debug/net10.0/OOP.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/obj/Debug/net10.0/OOP.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/obj/Debug/net10.0/OOP.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/obj/Debug/net10.0/OOP.genruntimeconfig.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/obj/Debug/net10.0/OOP.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/obj/Debug/net10.0/OOP.sourcelink.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/obj/Debug/net10.0/apphost" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/obj/Debug/net10.0/ref/OOP.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/obj/Debug/net10.0/refint/OOP.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/obj/OOP.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/obj/OOP.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/obj/OOP.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSharpCourse.slnx" beforeDir="false" afterPath="$PROJECT_DIR$/CSharpCourse.slnx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HalloCSharp/obj/Debug/net10.0/HalloCSharp.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/HalloCSharp/obj/Debug/net10.0/HalloCSharp.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HalloCSharp/obj/Debug/net10.0/HalloCSharp.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/HalloCSharp/obj/Debug/net10.0/HalloCSharp.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HalloCSharp/obj/HalloCSharp.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/HalloCSharp/obj/HalloCSharp.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HalloCSharp/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/HalloCSharp/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HalloCSharp/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/HalloCSharp/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HalloCSharp/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/HalloCSharp/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/Person.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/Person.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/Program.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

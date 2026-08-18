@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HalloCSharp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9a6f0de10f5858e9464d069c6016df8fa82ef30b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5c059a61f74522cab58e31ec1b6f7c731ca15ffe")]
 [assembly: System.Reflection.AssemblyProductAttribute("HalloCSharp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HalloCSharp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

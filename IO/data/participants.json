@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Anna",
+    "Surname": "M\u00FCller",
+    "Email": "anna.mueller@beispiel.ch",
+    "Course": "C# Grundlagen"
+  },
+  {
+    "Name": "Ben",
+    "Surname": "Schmid",
+    "Email": "ben.schmid@beispiel.ch",
+    "Course": "C# Grundlagen"
+  },
+  {
+    "Name": "Clara",
+    "Surname": "Weber",
+    "Email": "clara.weber@beispiel.ch",
+    "Course": "Java RESTful"
+  }
+]

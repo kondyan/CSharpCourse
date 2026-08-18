@@ -1,0 +1,15 @@
+/home/kondyan/projects/csharp/HalloCSharp/IO/bin/Debug/net10.0/IO
+/home/kondyan/projects/csharp/HalloCSharp/IO/bin/Debug/net10.0/IO.deps.json
+/home/kondyan/projects/csharp/HalloCSharp/IO/bin/Debug/net10.0/IO.runtimeconfig.json
+/home/kondyan/projects/csharp/HalloCSharp/IO/bin/Debug/net10.0/IO.dll
+/home/kondyan/projects/csharp/HalloCSharp/IO/bin/Debug/net10.0/IO.pdb
+/home/kondyan/projects/csharp/HalloCSharp/IO/obj/Debug/net10.0/IO.GeneratedMSBuildEditorConfig.editorconfig
+/home/kondyan/projects/csharp/HalloCSharp/IO/obj/Debug/net10.0/IO.AssemblyInfoInputs.cache
+/home/kondyan/projects/csharp/HalloCSharp/IO/obj/Debug/net10.0/IO.AssemblyInfo.cs
+/home/kondyan/projects/csharp/HalloCSharp/IO/obj/Debug/net10.0/IO.csproj.CoreCompileInputs.cache
+/home/kondyan/projects/csharp/HalloCSharp/IO/obj/Debug/net10.0/IO.sourcelink.json
+/home/kondyan/projects/csharp/HalloCSharp/IO/obj/Debug/net10.0/IO.dll
+/home/kondyan/projects/csharp/HalloCSharp/IO/obj/Debug/net10.0/refint/IO.dll
+/home/kondyan/projects/csharp/HalloCSharp/IO/obj/Debug/net10.0/IO.pdb
+/home/kondyan/projects/csharp/HalloCSharp/IO/obj/Debug/net10.0/IO.genruntimeconfig.cache
+/home/kondyan/projects/csharp/HalloCSharp/IO/obj/Debug/net10.0/ref/IO.dll

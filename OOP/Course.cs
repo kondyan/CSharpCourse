@@ -1,18 +1,20 @@
 namespace OOP;
 
+
 public class Course
 {
-    private string _description;
-    private Teacher _teacher;
-    private List<Student> _students;
+    public string Description { get; set; }
+    public Teacher Teacher { get; set; }
+    public List<Student> Students { get; private set; }
 
-    public Course()
+    public Course(string description)
     {
-        
+        this.Description = description;
+        Students = new List<Student>();
     }
 
-    void AddStudent(Student student)
+    public void AddStudent(Student student)
     {
-        this._students.Add(student);
+        Students.Add(student);
     }
 }
